@@ -6,9 +6,9 @@
 Under construction! 🚧
 
 - 🔭 I’m currently working as ... ABAP Developer
-- 🌱 I’m currently learning ... NodeJS and ReacJS
+- 🌱 I’m currently learning ... ABAP RAP, Joule, IA, NodeJS and ReacJS
 - 👯 I’m looking to collaborate on ... Blockchain
-- 💬 Ask me about ... ABAP and Blockchain
+- 💬 Ask me about ... ABAP, IA and Blockchain
 - 📫 How to reach me: ... See below
 - ⚡ Fun fact: ... keep it simple! let´s code!
 
@@ -16,5 +16,5 @@ Under construction! 🚧
 Social networks!
 
 [![Blog Badge](https://img.shields.io/badge/Blog-evandro.dev-black)](https://evandro.dev)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ereismatias)](https://twitter.com/ereismatias)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ereismatias)](https://x.com/ereismatias)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ereismatias/)](https://www.linkedin.com/in/ereismatias/)
