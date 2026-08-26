@@ -6,7 +6,7 @@
 Under construction! 🚧
 
 - 🔭 I’m currently working as ... ABAP Developer
-- 🌱 I’m currently learning ... ABAP RAP, Joule, IA, NodeJS and ReacJS
+- 🌱 I’m currently learning ... ABAP RAP, Joule, IA, Power Apps, Power BI, Fabric, NodeJS and ReacJS
 - 👯 I’m looking to collaborate on ... Blockchain
 - 💬 Ask me about ... ABAP, IA and Blockchain
 - 📫 How to reach me: ... See below
